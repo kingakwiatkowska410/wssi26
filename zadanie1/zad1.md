@@ -1,1 +1,2 @@
-
+# zad.1
+W mojej opinii do każdego z tych zadań wymagana jest inteligencja człowieka. Sztuczna inteligencja pomimo szybkiego rozwoju nie powinna zyskiwać stu procentowego zaufania człowieka, tym bardziej w kwestiach gdzie zadania wymagają dostępu do danych osobitych, takich jak rozliczanie PITu. W zadaniach, w których mogły powstać błędy ciągnące za sobą różne skutki gdy obsługuje je człowiek to wiadomo kogo pociągnąc do odpowiedzialności karnej. 
